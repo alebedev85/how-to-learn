@@ -66,6 +66,17 @@
   height: 568px;
   width: 568px;
   background-color: #2f80ed;
+  position: absolute;
+  top: 64px;
+  right: 0;
+}
+
+.header__main-illustration{
+  height: 608px;
+  width: 765px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
 }
 
 /* и элемента с модификатором вида ключ-значение */
