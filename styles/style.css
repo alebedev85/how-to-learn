@@ -191,6 +191,46 @@ h1, h2,  p {
   font-size: 18px;
   font-weight: normal;
 }
+
+/*Feyman*/
+
+.feynman {
+  display: flex;
+  height: 890px;
+  background-color: #f2f2f2;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  background-image: url(../images/feynman.png);
+  background-repeat:no-repeat;
+  background-position: left bottom;
+}
+
+.feynman__title {
+  margin-top: 100px;
+  width: 648px;
+  line-height: 1.15;
+  font-size: 120px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.feynman__subtitle {
+  margin-top: 70px;
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
+}
+
+.fynman__link {
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
+  position: absolute;
+  top: 50%;
+  right: 48px;
+}
+
 /* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
   width: 200px;
