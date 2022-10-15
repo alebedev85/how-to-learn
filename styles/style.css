@@ -9,21 +9,13 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
-h1, h2,  p {
+/*h1, h2,  p {
   margin: 0;
   padding: 0;
-}
+}*/
 
 .border {
   border: 1px solid red;
-}
-
-.margin-bottom_100 {
-  margin-bottom: 100px;
-}
-
-.margin-top_100 {
-  margin-top: 100px;
 }
 
 /*Header*/
@@ -74,6 +66,7 @@ h1, h2,  p {
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
+  margin: 0;
   z-index: 1;
 }
 
@@ -117,6 +110,7 @@ h1, h2,  p {
   font-size: 18px;
   font-weight: normal;
   color: #2f80ed;
+  margin: 0;
 }
 
 .two_colums__main-text {
@@ -130,6 +124,7 @@ h1, h2,  p {
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
+  margin: 0;
 }
 
 .paragraph_middle {
@@ -156,7 +151,7 @@ h1, h2,  p {
   font-size: 60px;
   font-weight: 600;
   text-align: center;
-  margin-top: 100px;
+  margin: 100px 0 0;
 }
 
 .subtitle {
@@ -186,10 +181,11 @@ h1, h2,  p {
   line-height: 1.15;
   font-size: 24px;
   font-weight: 600;
+  margin: 0;
 }
 
 .table__text {
-  margin-top: 20px;
+  margin: 20px 0 0;
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
@@ -210,7 +206,7 @@ h1, h2,  p {
 }
 
 .feynman__title {
-  margin-top: 100px;
+  margin: 100px 0 0;
   width: 648px;
   line-height: 1.15;
   font-size: 120px;
@@ -219,7 +215,7 @@ h1, h2,  p {
 }
 
 .feynman__subtitle {
-  margin-top: 70px;
+  margin: 70px 0 0;
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
@@ -229,6 +225,7 @@ h1, h2,  p {
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
+  margin: 0;
   position: absolute;
   top: 50%;
   right: 48px;
