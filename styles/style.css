@@ -9,14 +9,9 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
-/*h1, h2,  p {
-  margin: 0;
-  padding: 0;
-}*/
-
-.border {
+/*.border {
   border: 1px solid red;
-}
+}*/
 
 /*Header*/
 
@@ -201,7 +196,7 @@
   align-items: center;
   position: relative;
   background-image: url(../images/feynman.png);
-  background-repeat:no-repeat;
+  background-repeat: no-repeat;
   background-position: left bottom;
 }
 
@@ -325,7 +320,8 @@
   margin: 20px 0 16px;
   display: flex;
   flex-direction: column;
-  
+  justify-content: space-between;
+
 }
 
 .footer__column-link {
