@@ -111,7 +111,7 @@
   margin: 0;
 }
 
-.two_colums__main-text {
+.two_columns__main-text {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -221,7 +221,7 @@
   font-weight: normal;
 }
 
-.fynman__link {
+.feynman__link {
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
@@ -303,7 +303,7 @@
   flex-direction: column;
 }
 
-.footer__column__content_copyright {
+.footer__column_content_copyright {
   flex-basis: 711px;
   justify-content: space-between;
 }
