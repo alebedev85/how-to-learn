@@ -297,11 +297,14 @@
   justify-content: space-between;
 }
 
-.footer__column__content_copyright {
+.footer__column {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+}
+
+.footer__column__content_copyright {
   flex-basis: 711px;
+  justify-content: space-between;
 }
 
 .logo_place_footer {
@@ -314,6 +317,10 @@
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
+}
+
+.footer__column__content_info {
+
 }
 
 .footer__column-heading {
@@ -342,7 +349,7 @@
   align-items: center;
 }
 
-.footer_social-icon {
+.footer__social-icon {
   width: 16px;
   height: 16px;
   margin-right: 10px;
