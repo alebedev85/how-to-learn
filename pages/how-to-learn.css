@@ -31,6 +31,9 @@
 /*Cards*/
 @import url(../blocks/cards/cards.css);
 
+/*Video*/
+@import url(../blocks/video/video.css);
+
 /*Digits*/
 @import url(../blocks/digits/digits.css);
 
