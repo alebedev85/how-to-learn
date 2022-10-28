@@ -1,6 +1,5 @@
 .cards {
   display: flex;
-  justify-content: space-between;
   width: 920px;
   flex-wrap: wrap;
   margin: 0;
@@ -16,9 +15,8 @@
   align-items: center;
 }
 
-.cards__item:last-child  {
-  background-color: green;
-  justify-self:right;
+.cards__item:nth-child(3n+2) {
+  margin: 0 97px 0 ;
 }
 
 .cards__image {
