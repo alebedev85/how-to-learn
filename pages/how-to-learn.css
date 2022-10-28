@@ -1,5 +1,6 @@
 @import url(../vendor/normalize.css);
 @import url(../root/root.css);
+@import url(../blocks/rotation/rotation.css);
 
 /*Header*/
 @import url(../blocks/header/header.css);
