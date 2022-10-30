@@ -71,6 +71,9 @@
 @import url(../blocks/table/_theme/table_theme_dark.css);
 @import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
 
+/*Resources*/
+@import url(../blocks/resources/resources.css);
+
 /*Footer*/
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);

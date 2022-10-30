@@ -13,9 +13,10 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  box-sizing: border-box;
 }
 
-.cards__item:nth-child(3n+2) {
+.cards__item:nth-of-type(3n+2) {
   margin: 0 100px 0 ;
 }
 

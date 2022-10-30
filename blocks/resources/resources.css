@@ -1,0 +1,26 @@
+.resources {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 100px;
+  padding-bottom: 217px;
+}
+
+.resources__logo-zone {
+  min-width: 1100px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 80px;
+}
+
+.resources__link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.resources__logo {
+  min-width: 270px;
+  height: 38px;
+  object-fit: contain;
+}

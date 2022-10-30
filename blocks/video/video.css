@@ -9,6 +9,8 @@
   width: 1050px;
   display: flex;
   justify-content: space-between;
+  position: relative;
+  top: 60px;
 }
 
 .video_iframe {
