@@ -9,7 +9,6 @@
 @import url(../blocks/header/__square-pic/header__square-pic.css);
 @import url(../blocks/header/__subtitle/header__subtitle.css);
 @import url(../blocks/header/__title/header__title.css);
-
 /*Logo in Header*/
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/logo/_place/logo_place_header.css);
@@ -17,7 +16,6 @@
 /*Main*/
 /*Description*/
 @import url(../blocks/description/description.css);
-
 /*Two columns*/
 @import url(../blocks/two-columns/two-columns.css);
 @import url(../blocks/two-columns/__brief/two-columns__brief.css);
@@ -27,7 +25,6 @@
 
 /*Techniques*/
 @import url(../blocks/techniques/techniques.css);
-
 /*Cards*/
 @import url(../blocks/cards/cards.css);
 
