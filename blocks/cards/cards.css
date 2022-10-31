@@ -6,39 +6,3 @@
   padding: 0;
   list-style-type: none;
 }
-
-.cards__item {
-  padding-top: 60px;
-  width: 240px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  box-sizing: border-box;
-}
-
-.cards__item:nth-of-type(3n+2) {
-  margin: 0 100px 0 ;
-}
-
-.cards__image {
-  margin: 0 40px 0;
-  width: 160px;
-  height: 160px;
-  border-radius: 50%;
-}
-
-.cards__title {
-  margin: 43px 0 16px;
-  line-height: 1.15;
-  font-size: 24px;
-  font-weight: 600;
-  text-align: center;
-}
-
-.cards__description {
-  margin: 0;
-  line-height: 23px;
-  font-size: 18px;
-  font-weight: normal;
-  text-align: center;
-}

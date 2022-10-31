@@ -1,5 +1,5 @@
-.description {
+.resources__link {
   display: flex;
   justify-content: center;
-  padding-top: 100px;
+  align-items: center;
 }
